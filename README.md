@@ -6,10 +6,9 @@
 
 ```javascript
 const kieran = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, React Testing Library]
-}
+    code: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Python'],
+    tools: ['React', 'Redux', 'Node', 'Storybook', 'Styled Components', 'Jest', 'React Testing Library', 'Tailwind'],
+};
 ```
 
 ---
