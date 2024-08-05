@@ -4,11 +4,5 @@
 [![Linkedin: kieranbs96](https://img.shields.io/badge/-kieranbs96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kieranbs96/)](https://www.linkedin.com/in/kieranbs96/)
 [![GitHub kieranbs96](https://img.shields.io/github/followers/kieranbs96?label=follow&style=social)](https://github.com/kieranbs96)
 
-```javascript
-const kieran = {
-    code: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Python'],
-    tools: ['React', 'Redux', 'Node', 'Storybook', 'Styled Components', 'Jest', 'React Testing Library', 'Tailwind'],
-};
-```
 
 ---
